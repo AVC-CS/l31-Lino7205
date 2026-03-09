@@ -29,7 +29,7 @@ const int Q3 =2;
 // Q4 (main4.cpp, line 17-20): After changeStruct1(ms); what is ms.value?
 //   1) 100   2) 200   3) 300   4) 400
 // TODO: enter your answer (1-4)
-const int Q4 = 4;
+const int Q4 = 1;
 
 // Q5 (main4.cpp, line 34-37): Why does changeStruct1(ms) NOT change ms?
 //   1) It passes by value (copy)
